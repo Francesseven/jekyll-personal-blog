@@ -45,7 +45,7 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
   This is a very personal blog. I don't write blogs for anyone, but just record what I do or what I think.  
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
