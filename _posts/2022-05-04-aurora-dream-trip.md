@@ -135,14 +135,16 @@ tags: Travel Iceland Aurora Europe
   - 备注：中转在土耳伊斯坦布尔
 
 ## 地图
-![北欧四国行程规划地图](/assets/images/travel/行程规划地图.jpg)
+
+![北欧四国行程规划地图]({{ site.baseurl }}/assets/images/travel/行程规划地图.jpg)
 <b>北欧四国行程规划地图<b>
 
-![冰岛环岛地图](/assets/images/travel/冰岛环岛地图.jpg)
+![冰岛环岛地图]({{ site.baseurl }}/assets/images/travel/冰岛环岛地图.jpg)
 <b>冰岛环岛地图<b>
 
 
 ## 入境要求
+
 - 芬兰：申根签、入境无隔离/PCR要求但是需要出示疫苗完全接种证明（确保加强针是辉瑞/Modena，疫苗证书可用SingPass在HealthHub网站申请）
 - 瑞典：申根签、入境无疫苗/隔离/PCR要求
 - 挪威：申根签、入境无疫苗/隔离/PCR要求
@@ -170,181 +172,181 @@ tags: Travel Iceland Aurora Europe
 
 #### 芬兰-赫尔辛基
 
-![赫尔辛基大教堂](/assets/images/travel/赫尔辛基大教堂.jpg)
+![赫尔辛基大教堂]({{ site.baseurl }}/assets/images/travel/赫尔辛基大教堂.jpg)
 <b>赫尔辛基 大教堂</b>
 
-![赫尔辛基乌斯别斯基东正教堂](/assets/images/travel/赫尔辛基乌斯别斯基东正教堂.jpg)
+![赫尔辛基乌斯别斯基东正教堂]({{ site.baseurl }}/assets/images/travel/赫尔辛基乌斯别斯基东正教堂.jpg)
 <b>赫尔辛基 乌斯别斯基东正教堂</b>
 
-![赫尔辛基Kiasma当代艺术馆](/assets/images/travel/赫尔辛基Kiasma当代艺术馆.jpg)
+![赫尔辛基Kiasma当代艺术馆]({{ site.baseurl }}/assets/images/travel/赫尔辛基Kiasma当代艺术馆.jpg)
 <b>赫尔辛基 Kiasma当代艺术馆</b>
 
-![赫尔辛基岩石教堂](/assets/images/travel/赫尔辛基岩石教堂.webp)
+![赫尔辛基岩石教堂]({{ site.baseurl }}/assets/images/travel/赫尔辛基岩石教堂.webp)
 <b>赫尔辛基 岩石教堂</b>
 
-![赫尔辛基AmosRex艺术博物馆](/assets/images/travel/赫尔辛基AmosRex艺术博物馆.jpg)
+![赫尔辛基AmosRex艺术博物馆]({{ site.baseurl }}/assets/images/travel/赫尔辛基AmosRex艺术博物馆.jpg)
 <b>赫尔辛基 AmosRex艺术博物馆</b>
 
-![赫尔辛基西贝柳斯公园](/assets/images/travel/赫尔辛基西贝柳斯公园.jpeg.crdownload)
+![赫尔辛基西贝柳斯公园]({{ site.baseurl }}/assets/images/travel/赫尔辛基西贝柳斯公园.jpeg.crdownload)
 <b>赫尔辛基 西贝柳斯公园</b>
 
-![赫尔辛基中央图书馆](/assets/images/travel/赫尔辛基中央图书馆.jpg)
+![赫尔辛基中央图书馆]({{ site.baseurl }}/assets/images/travel/赫尔辛基中央图书馆.jpg)
 <b>赫尔辛基 中央图书馆</b>
 
 
-![赫尔辛基集市广场](/assets/images/travel/赫尔辛基集市广场.jpg)
+![赫尔辛基集市广场]({{ site.baseurl }}/assets/images/travel/赫尔辛基集市广场.jpg)
 <b>赫尔辛基 集市广场</b>
 
 
 #### 芬兰-罗瓦涅米
 
-![罗瓦涅米圣诞老人村](/assets/images/travel/罗瓦涅米圣诞老人村.webp)
+![罗瓦涅米圣诞老人村]({{ site.baseurl }}/assets/images/travel/罗瓦涅米圣诞老人村.webp)
 <b>罗瓦涅米 圣诞老人村</b>
 
-![罗瓦涅米ounasvaaran滑雪场](/assets/images/travel/罗瓦涅米ounasvaaran滑雪场.jpg)
+![罗瓦涅米ounasvaaran滑雪场]({{ site.baseurl }}/assets/images/travel/罗瓦涅米ounasvaaran滑雪场.jpg)
 <b>罗瓦涅米 ounasvaaran滑雪场</b>
 
-![罗瓦涅米最北麦当劳](/assets/images/travel/罗瓦涅米最北麦当劳.jpeg)
+![罗瓦涅米最北麦当劳]({{ site.baseurl }}/assets/images/travel/罗瓦涅米最北麦当劳.jpeg)
 <b>罗瓦涅米 最北麦当劳</b>
 
-![罗瓦涅米驯鹿雪橇](/assets/images/travel/罗瓦涅米驯鹿雪橇.webp)
+![罗瓦涅米驯鹿雪橇]({{ site.baseurl }}/assets/images/travel/罗瓦涅米驯鹿雪橇.webp)
 <b>罗瓦涅米 驯鹿雪橇</b>
 
-![罗瓦涅米哈士奇拉雪橇.](/assets/images/travel/罗瓦涅米哈士奇拉雪橇.jpg)
+![罗瓦涅米哈士奇拉雪橇.]({{ site.baseurl }}/assets/images/travel/罗瓦涅米哈士奇拉雪橇.jpg)
 <b>罗瓦涅米 哈士奇拉雪橇</b>
 
 #### 瑞典-斯德哥尔摩
 
-![斯德哥尔摩老城](/assets/images/travel/斯德哥尔摩老城.jpg)
+![斯德哥尔摩老城]({{ site.baseurl }}/assets/images/travel/斯德哥尔摩老城.jpg)
 <b>斯德哥尔摩 老城</b>
 
-![斯德哥尔摩皇宫](/assets/images/travel/斯德哥尔摩皇宫.jpg)
+![斯德哥尔摩皇宫]({{ site.baseurl }}/assets/images/travel/斯德哥尔摩皇宫.jpg)
 <b>斯德哥尔摩 皇宫</b>
   
-![斯德哥尔摩市政厅](/assets/images/travel/斯德哥尔摩市政厅.jpg)
+![斯德哥尔摩市政厅]({{ site.baseurl }}/assets/images/travel/斯德哥尔摩市政厅.jpg)
 <b>斯德哥尔摩 市政厅</b>
 
-![斯德哥尔摩地铁站](/assets/images/travel/斯德哥尔摩地铁站.jpg)
+![斯德哥尔摩地铁站]({{ site.baseurl }}/assets/images/travel/斯德哥尔摩地铁站.jpg)
 <b>斯德哥尔摩 地铁站</b>
 
-![斯德哥尔摩地铁站](/assets/images/travel/斯德哥尔摩地铁站2.jpeg.crdownload)
+![斯德哥尔摩地铁站]({{ site.baseurl }}/assets/images/travel/斯德哥尔摩地铁站2.jpeg.crdownload)
 <b>斯德哥尔摩 地铁站</b>
 
-![斯德哥尔摩图书馆](/assets/images/travel/斯德哥尔摩图书馆.jpg)
+![斯德哥尔摩图书馆]({{ site.baseurl }}/assets/images/travel/斯德哥尔摩图书馆.jpg)
 <b>斯德哥尔摩 图书馆</b>
 
 
 #### 挪威-奥斯陆
 
-![奥斯陆爱德华蒙克博物馆](/assets/images/travel/奥斯陆爱德华蒙克博物馆.jpg)
+![奥斯陆爱德华蒙克博物馆]({{ site.baseurl }}/assets/images/travel/奥斯陆爱德华蒙克博物馆.jpg)
 <b>奥斯陆 爱德华蒙克博物馆</b>
 
-![奥斯陆市政厅](/assets/images/travel/奥斯陆市政厅.webp)
+![奥斯陆市政厅]({{ site.baseurl }}/assets/images/travel/奥斯陆市政厅.webp)
 <b>奥斯陆 市政厅</b>
 
-![奥斯陆歌剧院](/assets/images/travel/奥斯陆歌剧院.jpeg)
+![奥斯陆歌剧院]({{ site.baseurl }}/assets/images/travel/奥斯陆歌剧院.jpeg)
 <b>奥斯陆 歌剧院</b>
 
-![奥斯陆奥克斯胡斯城堡](/assets/images/travel/奥斯陆奥克斯胡斯城堡.jpeg)
+![奥斯陆奥克斯胡斯城堡]({{ site.baseurl }}/assets/images/travel/奥斯陆奥克斯胡斯城堡.jpeg)
 <b>奥斯陆 奥克斯胡斯城堡</b>
 
-![奥斯陆维格兰雕塑公园](/assets/images/travel/奥斯陆维格兰雕塑公园.jpg)
+![奥斯陆维格兰雕塑公园]({{ site.baseurl }}/assets/images/travel/奥斯陆维格兰雕塑公园.jpg)
 <b>奥斯陆 维格兰雕塑公园</b>
 
 
 #### 冰岛
 ##### 雷克雅未克
 
-![冰岛蓝湖温泉](/assets/images/travel/冰岛蓝湖温泉.jpeg)
+![冰岛蓝湖温泉]({{ site.baseurl }}/assets/images/travel/冰岛蓝湖温泉.jpeg)
 <b>冰岛 蓝湖温泉</b>
 
-![冰岛SKY温泉](/assets/images/travel/冰岛SKY温泉.jpg)
+![冰岛SKY温泉]({{ site.baseurl }}/assets/images/travel/冰岛SKY温泉.jpg)
 <b>冰岛 SKY温泉</b>
 
-![冰岛雷克雅未克大教堂](/assets/images/travel/冰岛雷克雅未克大教堂.jpg)
+![冰岛雷克雅未克大教堂]({{ site.baseurl }}/assets/images/travel/冰岛雷克雅未克大教堂.jpg)
 <b>冰岛 雷克雅未克大教堂</b>
 
 
 ##### 黄金圈
 
-![冰岛辛格维利尔国家公园](/assets/images/travel/冰岛辛格维利尔国家公园.jpg)
+![冰岛辛格维利尔国家公园]({{ site.baseurl }}/assets/images/travel/冰岛辛格维利尔国家公园.jpg)
 <b>冰岛 辛格维利尔国家公园</b>
 
-![冰岛黄金瀑布](/assets/images/travel/冰岛黄金瀑布.jpg)
+![冰岛黄金瀑布]({{ site.baseurl }}/assets/images/travel/冰岛黄金瀑布.jpg)
 <b>冰岛 黄金瀑布</b>
 
-![冰岛塞里雅兰瀑布](/assets/images/travel/冰岛塞里雅兰瀑布.jpg)
+![冰岛塞里雅兰瀑布]({{ site.baseurl }}/assets/images/travel/冰岛塞里雅兰瀑布.jpg)
 <b>冰岛 塞里雅兰瀑布</b>
 
-![冰岛斯科加瀑布](/assets/images/travel/冰岛斯科加瀑布.jpg)
+![冰岛斯科加瀑布]({{ site.baseurl }}/assets/images/travel/冰岛斯科加瀑布.jpg)
 <b>冰岛 斯科加瀑布</b>
 
 ##### 冰岛南岸
 
-![冰岛飞机残骸](/assets/images/travel/冰岛飞机残骸.jpg)
+![冰岛飞机残骸]({{ site.baseurl }}/assets/images/travel/冰岛飞机残骸.jpg)
 <b>冰岛 飞机残骸</b>
 
-![冰岛索尔黑马冰川徒步](/assets/images/travel/冰岛索尔黑马冰川徒步.jpeg)
+![冰岛索尔黑马冰川徒步]({{ site.baseurl }}/assets/images/travel/冰岛索尔黑马冰川徒步.jpeg)
 <b>冰岛 索尔黑马冰川徒步</b>
 
-![冰岛雷尼斯黑沙滩](/assets/images/travel/冰岛雷尼斯黑沙滩.jpg)
+![冰岛雷尼斯黑沙滩]({{ site.baseurl }}/assets/images/travel/冰岛雷尼斯黑沙滩.jpg)
 <b>冰岛 雷尼斯黑沙滩</b>
 
-![冰岛维克镇](/assets/images/travel/冰岛维克镇.webp)
+![冰岛维克镇]({{ site.baseurl }}/assets/images/travel/冰岛维克镇.webp)
 <b>冰岛 维克镇</b>
 
 ##### 冰河湖
 
-![冰岛斯卡夫塔山国家公园](/assets/images/travel/冰岛斯卡夫塔山国家公园.jpg)
+![冰岛斯卡夫塔山国家公园]({{ site.baseurl }}/assets/images/travel/冰岛斯卡夫塔山国家公园.jpg)
 <b>冰岛 斯卡夫塔山国家公园</b>
 
-![冰岛瓦特纳冰川](/assets/images/travel/冰岛瓦特纳冰川.jpg)
+![冰岛瓦特纳冰川]({{ site.baseurl }}/assets/images/travel/冰岛瓦特纳冰川.jpg)
 <b>冰岛 瓦特纳冰川</b>
 
-![冰岛蓝冰洞](/assets/images/travel/冰岛蓝冰洞.webp)
+![冰岛蓝冰洞]({{ site.baseurl }}/assets/images/travel/冰岛蓝冰洞.webp)
 <b>冰岛 蓝冰洞</b>
 
-![冰岛杰古沙龙冰河湖](/assets/images/travel/冰岛杰古沙龙冰河湖.jpeg)
+![冰岛杰古沙龙冰河湖]({{ site.baseurl }}/assets/images/travel/冰岛杰古沙龙冰河湖.jpeg)
 <b>冰岛 杰古沙龙冰河湖</b>
 
-![冰岛钻石沙滩](/assets/images/travel/冰岛钻石沙滩.jpg)
+![冰岛钻石沙滩]({{ site.baseurl }}/assets/images/travel/冰岛钻石沙滩.jpg)
 <b>冰岛 钻石沙滩</b>
 
-![冰岛霍芬镇](/assets/images/travel/冰岛霍芬镇.jpeg)
+![冰岛霍芬镇]({{ site.baseurl }}/assets/images/travel/冰岛霍芬镇.jpeg)
 <b>冰岛 霍芬镇</b>
 
 ##### 冰岛东部
 
-![冰岛峡湾小镇](/assets/images/travel/冰岛峡湾小镇.webp)
+![冰岛峡湾小镇]({{ site.baseurl }}/assets/images/travel/冰岛峡湾小镇.webp)
 <b>冰岛 峡湾小镇</b>
 
-![冰岛](/assets/images/travel/冰岛亨吉瀑布.webp)
+![冰岛]({{ site.baseurl }}/assets/images/travel/冰岛亨吉瀑布.webp)
 <b>冰岛 </b>
 
-![冰岛小半岛瀑布](/assets/images/travel/冰岛小半岛瀑布.jpg)
+![冰岛小半岛瀑布]({{ site.baseurl }}/assets/images/travel/冰岛小半岛瀑布.jpg)
 <b>冰岛 小半岛瀑布</b>
 
 ##### 冰岛北部
 
-![冰岛黛提瀑布](/assets/images/travel/冰岛黛提瀑布.jpg)
+![冰岛黛提瀑布]({{ site.baseurl }}/assets/images/travel/冰岛黛提瀑布.jpg)
 <b>冰岛 黛提瀑布</b>
 
-![冰岛米湖地热](/assets/images/travel/冰岛米湖地热.webp)
+![冰岛米湖地热]({{ site.baseurl }}/assets/images/travel/冰岛米湖地热.webp)
 <b>冰岛 米湖地热</b>
 
-![冰岛米湖温泉](/assets/images/travel/冰岛米湖温泉.jpg)
+![冰岛米湖温泉]({{ site.baseurl }}/assets/images/travel/冰岛米湖温泉.jpg)
 <b>冰岛 米湖温泉(小版蓝湖温泉)</b>
 
-![冰岛众神瀑布](/assets/images/travel/冰岛众神瀑布.jpg)
+![冰岛众神瀑布]({{ site.baseurl }}/assets/images/travel/冰岛众神瀑布.jpg)
 <b>冰岛 众神瀑布</b>
 
-![冰岛阿克雷里爱心交通灯](/assets/images/travel/冰岛阿克雷里爱心交通灯.jpg)
+![冰岛阿克雷里爱心交通灯]({{ site.baseurl }}/assets/images/travel/冰岛阿克雷里爱心交通灯.jpg)
 <b>冰岛 阿克雷里爱心交通灯</b>
 
 ##### 观鲸之旅
 
-![冰岛达尔维克观鲸](/assets/images/travel/冰岛达尔维克观鲸.jpg)
+![冰岛达尔维克观鲸]({{ site.baseurl }}/assets/images/travel/冰岛达尔维克观鲸.jpg)
 <b>冰岛 达尔维克观鲸</b>
 
-![冰岛锡格吕菲厄泽小镇](/assets/images/travel/冰岛锡格吕菲厄泽小镇.jpg)
+![冰岛锡格吕菲厄泽小镇]({{ site.baseurl }}/assets/images/travel/冰岛锡格吕菲厄泽小镇.jpg)
 <b>冰岛 锡格吕菲厄泽小镇</b>
